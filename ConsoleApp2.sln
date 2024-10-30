@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScannerdeDTSX", "ConsoleApp2\ScannerdeDTSX.csproj", "{3E2AC887-4360-4490-B766-E04FA95ACCAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E2AC887-4360-4490-B766-E04FA95ACCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2AC887-4360-4490-B766-E04FA95ACCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2AC887-4360-4490-B766-E04FA95ACCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2AC887-4360-4490-B766-E04FA95ACCAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8299ADA-FCB7-4063-A7D5-B103ED9A3FE9}
+	EndGlobalSection
+EndGlobal
